@@ -1,4 +1,4 @@
-# -Jona-_-
+# Jona-_-
 <div align="center">
   <img src="watermarked_img_1690832853855424984.jpg" alt="Jonathan Oswaldo Vázquez" width="200" style="border-radius: 50%; border: 3px solid #0077B5;" />
 
